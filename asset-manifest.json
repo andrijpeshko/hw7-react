@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw7-react/static/css/main.7acaea2f.css",
+    "main.js": "/hw7-react/static/js/main.c321918b.js",
+    "index.html": "/hw7-react/index.html",
+    "main.7acaea2f.css.map": "/hw7-react/static/css/main.7acaea2f.css.map",
+    "main.c321918b.js.map": "/hw7-react/static/js/main.c321918b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.c321918b.js"
+  ]
+}
